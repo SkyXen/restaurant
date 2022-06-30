@@ -1,15 +1,16 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
-  font-family: 'Oxygen', sans-serif;
+  background-color: #641414;
+  font-family: 'Poppins', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
-  border-radius: 0;
+  background-color: #f8bd0d;
+  border-radius: 1rem;
   border: 0;
+  box-shadow: 0 0px 1px px #cccccc;
 }
 
 #logo-img {
@@ -23,7 +24,7 @@ body {
   padding-top: 25px;
 }
 .navbar-brand h1 { /* Restaurant name */
-  font-family: 'Lora', serif;
+  font-family: 'Poppins', serif;
   color: #557c3e;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -116,7 +117,7 @@ body {
 
 /* HOME PAGE */
 .container .jumbotron {
-  box-shadow: 0 0 50px #3F0C1F;
+  box-shadow: 0 0 20px #3F0C1F;
   border: 2px solid #3F0C1F;
 }
 
